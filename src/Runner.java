@@ -8,5 +8,6 @@ public class Runner {
         int something = (int) (Math.random()*5+1);
         System.out.println("The lucky number is: " + something);
         System.out.println("I have updated  my code");
+        System.out.println("hi");
     }
 }
